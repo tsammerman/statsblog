@@ -1,0 +1,14 @@
+---
+title: "Data Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+---
+
+This is a Quarto website.
+
+
+```{r}
+1 + 1
+```
