@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out via email or connect with me on the links below."
+  },
+  {
     "objectID": "posts/first post/index.html",
     "href": "posts/first post/index.html",
     "title": "An Introduction to the Blog",
     "section": "",
     "text": "This is a First!\nI suppose I will start with the intended purpose of this blog.\nI hope to showcase some of my prior work as well as give updates regarding any topics I may be learning about at the moment. This will ultimately become a space to catalog my passion projects. The scope of this is to be determined, but it will definitely include some work involving statistical modeling, geospatial data visualization, as well as some book reviews.\nStay tuned."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out via email or connect with me on the links below."
   },
   {
     "objectID": "about.html",
@@ -19,13 +33,6 @@
     "title": "Data Blog",
     "section": "",
     "text": "This is a Quarto website. uploaded to Git.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn Introduction to the Blog\n\n\nHello World\n\n\n\n\n\nAug 22, 2026\n\n\nTitus Ammerman\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Feel free to reach out via email or connect with me on the links below."
   },
   {
     "objectID": "projects.html",
